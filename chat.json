@@ -92,5 +92,20 @@
         "metadata": {
             "component_id": "Hero1735809568"
         }
+    },
+    {
+        "id": "da01217e-8b22-4f8e-bb64-2a840ba6af01",
+        "timestamp": "2025-01-02T09:20:34.838728Z",
+        "role": "tool_call",
+        "source": "smart_contract_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_BYjI8t9fqrUK0fWyaN6BOoQg",
+            "function": {
+                "arguments": "{\"contract_id\":\"stakingContract\",\"audit_focus\":\"reentrancy, gas optimization, access control\",\"acknowledgement_message\":\"Starting the security audit of your smart contract...\"}",
+                "name": "AuditSmartContract"
+            },
+            "type": "function"
+        }
     }
 ]
