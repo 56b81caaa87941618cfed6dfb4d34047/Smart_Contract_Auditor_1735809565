@@ -82,5 +82,15 @@
         "source": "smart_contract_assistant",
         "content": "Would you like to deploy the staking contract now?",
         "metadata": {}
+    },
+    {
+        "id": "397b5e40-111f-491f-a1a3-9fef74ef1de2",
+        "timestamp": "2025-01-02T09:20:32.113908Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "audit it",
+        "metadata": {
+            "component_id": "Hero1735809568"
+        }
     }
 ]
