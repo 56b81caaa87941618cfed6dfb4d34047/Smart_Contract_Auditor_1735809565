@@ -74,5 +74,13 @@
         "metadata": {
             "tool_call_id": "call_OHtEweVwWevGLjBOIJ0BD5sg"
         }
+    },
+    {
+        "id": "fdaef11e-f179-4a40-ba3e-caec5f2f8e78",
+        "timestamp": "2025-01-02T09:20:22.571819Z",
+        "role": "assistant",
+        "source": "smart_contract_assistant",
+        "content": "Would you like to deploy the staking contract now?",
+        "metadata": {}
     }
 ]
